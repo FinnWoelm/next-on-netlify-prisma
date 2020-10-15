@@ -1,2 +1,5 @@
 # Ignore Node modules
 /node_modules/
+
+# Ignore .next files
+/.next/
