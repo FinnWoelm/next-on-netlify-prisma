@@ -1,7 +1,7 @@
 [build]
   functions = "out_functions"
   publish   = "out_publish"
-  command   = ""
+  command   = "npm run prisma"
 
 [build.environment]
   # Fix to ensure the Prisma binary is packaged with the lambda function
