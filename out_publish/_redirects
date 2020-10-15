@@ -2,3 +2,4 @@
 /api/test  /.netlify/functions/next_api_test  200
 /api/test3  /.netlify/functions/next_api_test3  200
 /api/test5  /.netlify/functions/next_api_test5  200
+/api/test7  /.netlify/functions/next_api_test7  200
