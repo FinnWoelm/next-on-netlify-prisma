@@ -1,2 +1,3 @@
 # Next-on-Netlify Redirects
 /api/test  /.netlify/functions/next_api_test  200
+/api/test3  /.netlify/functions/next_api_test3  200
